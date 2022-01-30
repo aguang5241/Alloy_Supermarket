@@ -2,7 +2,7 @@
 Desktop software of Alloy supermarket for Sc-modified Al-Si-Mg casting alloys
 
 ### Download
-Visit https://github.com/Aguang5241/Alloy_Supermarket/blob/main/res/dnowload to dnowload the software zip or database file. 
+Visit https://github.com/Aguang5241/Alloy_Supermarket/tree/main/res/dnowload to dnowload the software zip or database file. 
 
 ### Description
 One novel alloy design approach integrating computational thermodynamics (CT) and machine learning (ML) has been applied to the Sc-modified Al-Si-Mg alloys. The concept of “alloy supermarket” was proposed to eliminate the gap between the research and engineering areas. This is the corresbonding software.
