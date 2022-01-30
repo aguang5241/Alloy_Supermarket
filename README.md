@@ -1,8 +1,7 @@
-# AlloySupermarket
-Alloy supermarket of Al-Si-Mg-Sc
+# Alloy Supermarket
+Desktop software of Alloy supermarket for Sc-modified Al-Si-Mg casting alloys
 
-## Software
-### Please download and unzip `AlloySupermarket.rar`
+## Download
 
-## Database
-### Please download `AlloySupermarket.db`
+## Description
+
