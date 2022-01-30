@@ -4,7 +4,7 @@ One novel alloy design approach integrating computational thermodynamics (CT) an
 ## Get Started
 ### Download & Unzip
 Visit https://github.com/Aguang5241/Alloy_Supermarket/releases to download and unzip the latest version of software (for Windows). 
-Note: A separate database is also available for specific requirements.
+* Note: A separate database is also available for specific requirements.
 
 ### Usage Description
 1. On the Concentrations -> Performance page, the users can input the Si and Mg elemental compositions. After clicking the Predict button, one can get the corresponding mechanical properties (UTS, YS, and EL) of the target alloy(s). 
