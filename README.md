@@ -1,11 +1,12 @@
 # Alloy Supermarket
 One novel alloy design approach integrating computational thermodynamics (CT) and machine learning (ML) has been applied to the Sc-modified Al-Si-Mg alloys. The concept of “alloy supermarket” was proposed to eliminate the gap between the research and engineering areas.
 
-## Get started
-### Download
-Visit https://github.com/Aguang5241/Alloy_Supermarket/releases to download the latest version of software (for Windows) and database. 
+## Get Started
+### Download & Unzip
+Visit https://github.com/Aguang5241/Alloy_Supermarket/releases to download and unzip the latest version of software (for Windows). 
+Note: A separate database is also available for specific requirements.
 
-### Description
+### Usage Description
 1. On the Concentrations -> Performance page, the users can input the Si and Mg elemental compositions. After clicking the Predict button, one can get the corresponding mechanical properties (UTS, YS, and EL) of the target alloy(s). 
 
 ![alt software_1](res/img/software_1.png)
